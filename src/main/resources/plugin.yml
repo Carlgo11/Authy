@@ -1,0 +1,7 @@
+main: com.carlgo11.authy.Authy
+name: Authy
+version: 1
+commands:
+  authy:
+    description: Authy main command
+    usage: /<command>
